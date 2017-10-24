@@ -1,4 +1,4 @@
-8)	Write a program to apply various 3D transformations and parallel and perspective projection a 3D object.
+#Write a program to apply various 3D transformations and parallel and perspective projection a 3D object.
 
 #include<iostream.h>
 #include<conio.h>
