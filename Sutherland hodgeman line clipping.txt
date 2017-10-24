@@ -1,4 +1,4 @@
-6)	Write a program to clip a polygon using Sutherland hodgeman line clipping algorithm.
+#Write a program to clip a polygon using Sutherland hodgeman line clipping algorithm.
 
 
 #include<graphics.h>
