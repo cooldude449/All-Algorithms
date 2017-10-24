@@ -1,4 +1,4 @@
-1)	Write a program to implement DDA line drawing algorithm.
+#Write a program to implement DDA line drawing algorithm.
 
 
 #include<graphics.h>
