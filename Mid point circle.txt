@@ -1,4 +1,4 @@
-3)	Write a program to implement mid-point circle drawing algorithm.
+#Write a program to implement mid-point circle drawing algorithm.
 
 
 #include<graphics.h>
