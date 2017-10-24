@@ -1,4 +1,4 @@
-7)	Write a program to apply various 2D transformations on a 2D object(use homogeneous coordinates).
+#Write a program to apply various 2D transformations on a 2D object(use homogeneous coordinates).
 
 #include<iostream.h>
 #include<conio.h>
